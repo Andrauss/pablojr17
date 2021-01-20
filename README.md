@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Gomes</h1>
-<h3 align="center">Fullstack developer</h3>
+<h3 align="center">Front-end developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojr17" alt="pablojr17" /> </p>
 
 ![47211806](https://user-images.githubusercontent.com/47211806/93653024-83adeb00-f9ed-11ea-89af-ea4e6112d468.jpeg)
