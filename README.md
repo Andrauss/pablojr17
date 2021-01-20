@@ -28,5 +28,4 @@
 <a href="https://fb.com/pablo.joserocha.7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pablo.joserocha.7/" height="20" width="20" /></a>
 <a href="https://instagram.com/pablo.r.gomes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablo.r.gomes" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrtsxqkmfh7cnxmvv1vpiyg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucrtsxqkmfh7cnxmvv1vpiyg?view_as=subscriber" height="20" width="20" /></a>
-  
 </p>
