@@ -4,7 +4,7 @@
 
 ![47211806](https://user-images.githubusercontent.com/47211806/93653024-83adeb00-f9ed-11ea-89af-ea4e6112d468.jpeg)
 
-- 🔭 I’m currently working on [D.S.D](https://github.com/pablojr17/BuskRestaurant)
+- 🔭 I’m currently working on [Busk Restaurant](https://github.com/pablojr17/BuskRestaurant)
 - See my LinkedIn: [Pablo Gomes](https://www.linkedin.com/in/pablo-r-gomes/)
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/pablojr17/sites](https://app.netlify.com/teams/pablojr17/sites)
