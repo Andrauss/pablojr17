@@ -2,10 +2,11 @@
 <h3 align="center">Front-end developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojr17" alt="pablojr17" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-r-gomes/)](https://www.linkedin.com/in/pablo-r-gomes/)
-[![Twitter Badge](https://img.shields.io/badge/-@PabloGomesDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PabloGomesDev)](https://twitter.com/PabloGomesDev) 
-[![Gmail Badge](https://img.shields.io/badge/-pablojr17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablojr1717@gmail.com)](mailto:pablojr17@gmail.com)
-
+<a href="https://linkedin.com/in/pablo-r-gomes"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/PabloGomesDev"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCrtsXqKMFh7CNxmvv1vpiyg"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://instagram.com/pablo___gomes/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:pablojr17@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 - 🔭 I’m currently working on [Busk Restaurant](https://github.com/pablojr17/BuskRestaurant)
 
