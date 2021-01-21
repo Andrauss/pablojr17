@@ -16,7 +16,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
 ![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
 ![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
-![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
+![NodeJS Badge](https://img.shields.io/badge/-Node.js-limegreen) 
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/pablojr17/sites](https://app.netlify.com/teams/pablojr17/sites)
 
