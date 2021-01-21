@@ -2,16 +2,25 @@
 <h3 align="center">Front-end developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablojr17" alt="pablojr17" /> </p>
 
-![47211806](https://user-images.githubusercontent.com/47211806/93653024-83adeb00-f9ed-11ea-89af-ea4e6112d468.jpeg)
+[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-r-gomes/)](https://www.linkedin.com/in/pablo-r-gomes/)
+[![Twitter Badge](https://img.shields.io/badge/-@PabloGomesDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PabloGomesDev)](https://twitter.com/PabloGomesDev) 
+[![Gmail Badge](https://img.shields.io/badge/-pablojr17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablojr1717@gmail.com)](mailto:pablojr17@gmail.com)
+
 
 - 🔭 I’m currently working on [Busk Restaurant](https://github.com/pablojr17/BuskRestaurant)
-- See my LinkedIn: [Pablo Gomes](https://www.linkedin.com/in/pablo-r-gomes/)
+
+<br />
+ 
+![HTML Badge](https://img.shields.io/badge/-HTML-orange)
+![CSS Badge](https://img.shields.io/badge/-CSS-blue)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
+![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
+![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
+![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/pablojr17/sites](https://app.netlify.com/teams/pablojr17/sites)
 
 - 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **pablojr17@gmail.com**
 
 - ⚡ Fun fact **In addition to programming, I play guitar, sing and am a composer**
 
