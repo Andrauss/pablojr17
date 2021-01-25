@@ -8,8 +8,6 @@
 <a href="https://instagram.com/pablo___gomes/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:pablojr17@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
-- 🔭 I’m currently working on [Busk Restaurant](https://github.com/pablojr17/BuskRestaurant)
-
 <br />
  
 ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
