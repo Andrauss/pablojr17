@@ -17,14 +17,6 @@
 ![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-limegreen) 
 
-<h4>Projects</h4>
-![Busk Restaurante Badge](https://busk-restaurante.netlify.app/)
-![CSS Badge](https://img.shields.io/badge/-CSS-blue)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
-![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
-![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
-![NodeJS Badge](https://img.shields.io/badge/-Node.js-limegreen) 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/pablojr17/sites](https://app.netlify.com/teams/pablojr17/sites)
 
 - 💬 Ask me about **Javascript**
 
