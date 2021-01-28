@@ -23,6 +23,6 @@
 - ⚡ Fun fact **In addition to programming, I play guitar, sing and am a composer**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablojr17&show_icons=true" alt="pablojr17" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pablojr17&show_icons=true&theme=dark" alt="pablojr17" />
 </p>
 </br>
